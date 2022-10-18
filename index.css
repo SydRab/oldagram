@@ -7,7 +7,7 @@ html, body {
 
 body {
     width: 375px;
-    text-align: center;
+    margin: 0 auto;
 }
 
 /* Header */
