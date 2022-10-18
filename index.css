@@ -5,6 +5,10 @@ html, body {
     font-family: 'Source Sans Pro', sans-serif;
 }
 
+body {
+    width: 375px;
+}
+
 /* Header */
 header {
     display: flex;
